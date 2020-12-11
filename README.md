@@ -1,5 +1,5 @@
 ## Tayealem Mekonnen || 425-287-4951 || Bothell, WA
-#### tayealem.deresse@gmail.com || https://www.linkedin.com/feed/ || https://gist.github.com/Tayealem
+#### tayealem.deresse@gmail.com || https://www.linkedin.com/feed/ || https://github.com/Tayealem/Tayealem/blob/main/README.md
 
 ## Professional Summary	
  > 10+ experience in business analysis and project management with strong business acumen, financial and analytical skills. Experienced with T-SQL and MS BI tools. Familiar to Azure cloud services; Python data science packages/libraries and various ERP solutions. A working knowledge of agile method and scrum process. Have strong communication, interpersonal and problem solving skills. My proven passion and skill set in bringing business people with IT team and supporting business decisions through quantitative and process analysis enables me to overcome work place challenges as a Business Program Manager. 
@@ -7,14 +7,14 @@
 ## Technical Skills 	
 * Language: T-SQL and Python	 
 * Microsoft BI tools: SSIS/SSAS/SSRS	
-* Data Visualization: Power BI/Python/Excel	
+* Data Visualization: Power BI/Python/Excel/Cognos	
 * Data Design and Development: MS SQL Server 2019/2017/2016/2014	
 * Cloud Platform: Microsoft Azure	
 * Development Environment: Visual Studio 2019/2017/2015/ 	
 * Project Management Tools: MS Project and TFS	
 * Business Process Management tools: Visio/draw.io	
 * Data Modeling Tools: SQL Server Data Tools, Erwin, Toad Data Modeler 	
-* Enterprise Resource Planning Solutions: MS Dynamics AX and Sage	
+* Enterprise Resource Planning Solutions: MS Dynamics AX, SAP and Sage Line 500
 	
 ## Work History 	
 #### Logic 20/20 | Seattle, WA | 02/2017 – 10/2018	
@@ -32,7 +32,7 @@
 #### Business Analyst	
 * Collaborated with cross-functional stakeholders to elicit business requirements for SAP/	
   MS Dynamics AX/Sage/Cognos implementations and manage the projects.	
-* Documented and reviewed ‘as-is’ and ‘to-be’ end-to-end business processes using MS Visio/drow.io/ARIS. 	
+* Documented and reviewed ‘as-is’ and ‘to-be’ end-to-end business processes using MS Visio/drow.io. 	
 * Developed test cases and conducted functionality and user acceptance testing.	
 * Analyzed and reviewed planning (budget/forecast) and performance reports for management decision making using Sage, Crystal Reports 	
   and Excel. 	
