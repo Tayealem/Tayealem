@@ -2,7 +2,7 @@
 #### tayealem.deresse@gmail.com || https://www.linkedin.com/feed/ || https://gist.github.com/Tayealem
 
 ## Professional Summary	
- > 10+ experience in business analysis and project management with strong business acumen, financial and analytical skills. Experienced with T-SQL and MS BI tools. Familiar to Azure cloud services;  Python data science packages and libraries and various ERP solutions. A working knowledge of agile method and scrum process. Have strong communication, interpersonal and problem solving skills. My proven passion and skill set in bringing business people with IT team and supporting business decisions through quantitative and process analysis enables me to overcome work place challenges as a Business Program Manager. 
+ > 10+ experience in business analysis and project management with strong business acumen, financial and analytical skills. Experienced with T-SQL and MS BI tools. Familiar to Azure cloud services; Python data science packages/libraries and various ERP solutions. A working knowledge of agile method and scrum process. Have strong communication, interpersonal and problem solving skills. My proven passion and skill set in bringing business people with IT team and supporting business decisions through quantitative and process analysis enables me to overcome work place challenges as a Business Program Manager. 
  
 ## Technical Skills 	
 * Language: T-SQL and Python	 
@@ -64,21 +64,21 @@
 * BI Developer Certificate
 
 #### KAL Academy| Redmond, WA 	
-* Data Science  	
+* Data Science Certificate	
 
 #### Hahu IT Training Center| Bellevue, WA 	
 * Introduction to programming	
-* Excel advanced functions	
 * T-SQL (beginner and advanced level)	
 * Software Engineering and Testing	
 * Data Warehouse Concepts and Application	
-* Introduction to Microsoft BI Tools (SSIS, SSAS, SSRS and Power BI) 	
+* Introduction to Microsoft BI Tools (SSIS, SSAS, SSRS and Power BI)
+* IT Project Management
 
 #### Association of Certified Chartered Accountants| London, UK 	 
-* A professional level certifiacte in accountancy that is equivalent to MSC in UK.	
+* A professional level certifiacte in Accountancy that is equivalent to MSC in UK.	
 
 #### Addis Ababa University| Addis Ababa, Ethiopia 	
-* Bachelor degree in business management.  	
+* Bachelor degree in Business Management.  	
 
 ## Award ##	
 * A recognition certificate signed by the DAL Group CFO and Chairman as a staff of the year in 2014 for successful implementation of 	
