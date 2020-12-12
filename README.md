@@ -17,18 +17,8 @@
 * Enterprise Resource Planning Solutions: MS Dynamics AX, SAP and Sage Line 500
 	
 ## Work History 	
-#### Logic 20/20 | Seattle, WA | 02/2017 – 10/2018	
-#### BI/Business Analyst	
-* Led data warehouse requirement gathering and data modelling project.	
-* Conducted data validation between source systems and data warehouse using SQL scripts.	
-* Created test cases, performed testing and shared results.	
-* Developed process flows for future and training materials for the new system.	
-* Acquired, cleaned, transformed and validated data for analysis and reporting purpose.	
-* Created tables, joins, indexes, views, stored procedures, triggers, subqueries and user defined functions to manipulate data to 	
-  develop planning and performance reports.	
-* Performed data extraction, data integration, and loading from heterogeneous billing data sources to destination using SSIS.	
 
-#### DAL Group Co Ltd | Dubai, UAE | 07/2011 – 01/2017	
+#### DAL Group Co Ltd | Dubai, UAE | 07/2011 – 06/2018	
 #### Business Analyst	
 * Collaborated with cross-functional stakeholders to elicit business requirements for SAP/	
   MS Dynamics AX/Sage/Cognos implementations and manage the projects.	
@@ -60,7 +50,7 @@
 
 ## Education 
 
-#### Bellevue College| Bellevue, WA 	
+#### Bellevue College| Bellevue, WA 
 * BI Developer Certificate
 
 #### KAL Academy| Redmond, WA 	
