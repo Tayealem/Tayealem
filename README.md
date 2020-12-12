@@ -81,9 +81,8 @@
 * Bachelor degree in Business Management.  	
 
 ## Award ##	
-* A recognition certificate signed by the DAL Group CFO and Chairman as a staff of the year in 2014 for successful implementation of 	
-  MS Dynamics AX on time and below budget. The budget reduction came from my initiative taking the lead role to document 	
-  ‘as-is’ and ‘to-be’ end-to-end processes using internal resources.	
+* A recognition certificate signed by the DAL Group CFO and Chairman as a staff of the year in 2014 for successful implementation of IFRS Compliance Processes and 
+  Adjustments Project on time and within budget. 
 
 ## Activities ##	
 * Facilitated internal trainings on process management and performance reporting in DAL Group Co Ltd.	
