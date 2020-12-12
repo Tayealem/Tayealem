@@ -1,5 +1,5 @@
 ## Tayealem Mekonnen || 425-287-4951 || Bothell, WA
-#### tayealem.deresse@gmail.com || https://www.linkedin.com/feed/ || https://github.com/Tayealem/Tayealem/blob/main/README.md
+#### tayealem.deresse@gmail.com || www.linkedin.com/in/tayealem || https://github.com/Tayealem/Tayealem/blob/main/README.md
 
 ## Professional Summary	
  > 10+ experience in business analysis and project management with strong business acumen, financial and analytical skills. Experienced with T-SQL and MS BI tools. Familiar to Azure cloud services; Python data science packages/libraries and various ERP solutions. A working knowledge of agile method and scrum process. Have strong communication, interpersonal and problem solving skills. My proven passion and skill set in bringing business people with IT team and supporting business decisions through quantitative and process analysis enables me to overcome work place challenges as a Business Program Manager. 
